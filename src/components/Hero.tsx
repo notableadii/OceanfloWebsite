@@ -20,6 +20,7 @@ export default function Hero() {
         <div className={styles.subhead}>
           Pure RO water enriched with minerals, sustainably packaged.
         </div>
+        <div>prototype website</div>
       </div>
     </section>
   );
